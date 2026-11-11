@@ -1,0 +1,60 @@
+{
+  "billNo": "20261111-007",
+  "date": "2026-11-11",
+  "time": "17:12",
+  "customer": {
+    "name": "Jal",
+    "phone": ""
+  },
+  "items": [
+    {
+      "itemId": 1,
+      "gu": "પ્રિમિયમ મોહનથાળ",
+      "en": "Premium Mohanthal",
+      "grams": 500,
+      "weightLabel": "500 g",
+      "qty": 1,
+      "unitPrice": 220,
+      "amount": 220
+    },
+    {
+      "itemId": 4,
+      "gu": "કેસર કાલાજામ",
+      "en": "Kesar Kalajam",
+      "grams": 500,
+      "weightLabel": "500 g",
+      "qty": 1,
+      "unitPrice": 260,
+      "amount": 260
+    },
+    {
+      "itemId": 5,
+      "gu": "સોનપાપડી",
+      "en": "Sonpapdi",
+      "grams": 500,
+      "weightLabel": "500 g",
+      "qty": 1,
+      "unitPrice": 260,
+      "amount": 260
+    },
+    {
+      "itemId": 9,
+      "gu": "પીસ્તા બરફી",
+      "en": "Pista Barfi",
+      "grams": 500,
+      "weightLabel": "500 g",
+      "qty": 1,
+      "unitPrice": 260,
+      "amount": 260
+    }
+  ],
+  "subtotal": 1000,
+  "discount": 0,
+  "total": 1000,
+  "amountPaid": 1000,
+  "amountDue": 0,
+  "paymentStatus": "paid",
+  "paymentMode": "Cash",
+  "createdAt": "2026-11-11T11:42:38.117Z",
+  "appVersion": "2.1.0"
+}
