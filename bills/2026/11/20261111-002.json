@@ -1,0 +1,80 @@
+{
+  "billNo": "20261111-002",
+  "date": "2026-11-11",
+  "time": "23:03",
+  "customer": {
+    "name": "Manisha",
+    "phone": "9638152400"
+  },
+  "items": [
+    {
+      "itemId": 16,
+      "gu": "મીક્ષ ચવાણું",
+      "en": "Mix Chavanu",
+      "grams": 500,
+      "weightLabel": "500 g",
+      "qty": 5,
+      "unitPrice": 140,
+      "amount": 700
+    },
+    {
+      "itemId": 19,
+      "gu": "તીખી સેવ",
+      "en": "Tikhi Sev",
+      "grams": 500,
+      "weightLabel": "500 g",
+      "qty": 5,
+      "unitPrice": 140,
+      "amount": 700
+    },
+    {
+      "itemId": 18,
+      "gu": "ગાંઠીયા",
+      "en": "Gathiya",
+      "grams": 500,
+      "weightLabel": "500 g",
+      "qty": 2,
+      "unitPrice": 140,
+      "amount": 280
+    },
+    {
+      "itemId": 17,
+      "gu": "ફુલવડી",
+      "en": "Fulvadi",
+      "grams": 500,
+      "weightLabel": "500 g",
+      "qty": 1,
+      "unitPrice": 140,
+      "amount": 140
+    },
+    {
+      "itemId": 21,
+      "gu": "આલુ સેવ",
+      "en": "Aloo Sev",
+      "grams": 500,
+      "weightLabel": "500 g",
+      "qty": 3,
+      "unitPrice": 140,
+      "amount": 420
+    },
+    {
+      "itemId": 20,
+      "gu": "ઝીણી સેવ",
+      "en": "Zini Sev",
+      "grams": 500,
+      "weightLabel": "500 g",
+      "qty": 3,
+      "unitPrice": 140,
+      "amount": 420
+    }
+  ],
+  "subtotal": 2660,
+  "discount": 0,
+  "total": 2660,
+  "amountPaid": 2000,
+  "amountDue": 660,
+  "paymentStatus": "partial",
+  "paymentMode": "Card",
+  "createdAt": "2026-11-11T17:33:20.158Z",
+  "appVersion": "2.3.0"
+}
