@@ -1,0 +1,90 @@
+{
+  "billNo": "20261111-002",
+  "date": "2026-11-11",
+  "time": "22:14",
+  "customer": {
+    "name": "",
+    "phone": ""
+  },
+  "items": [
+    {
+      "itemId": 26,
+      "gu": "પ્રિમિયમ કાજુ કતરી",
+      "en": "Premium Kaju Katri",
+      "grams": 250,
+      "weightLabel": "250 g",
+      "qty": 1,
+      "unitPrice": 220,
+      "amount": 220
+    },
+    {
+      "itemId": 26,
+      "gu": "પ્રિમિયમ કાજુ કતરી",
+      "en": "Premium Kaju Katri",
+      "grams": 500,
+      "weightLabel": "500 g",
+      "qty": 1,
+      "unitPrice": 440,
+      "amount": 440
+    },
+    {
+      "itemId": 16,
+      "gu": "મીક્ષ ચવાણું",
+      "en": "Mix Chavanu",
+      "grams": 500,
+      "weightLabel": "500 g",
+      "qty": 5,
+      "unitPrice": 140,
+      "amount": 700
+    },
+    {
+      "itemId": 21,
+      "gu": "આલુ સેવ",
+      "en": "Aloo Sev",
+      "grams": 500,
+      "weightLabel": "500 g",
+      "qty": 2,
+      "unitPrice": 140,
+      "amount": 280
+    },
+    {
+      "itemId": 20,
+      "gu": "ઝીણી સેવ",
+      "en": "Zini Sev",
+      "grams": 500,
+      "weightLabel": "500 g",
+      "qty": 2,
+      "unitPrice": 140,
+      "amount": 280
+    },
+    {
+      "itemId": 19,
+      "gu": "તીખી સેવ",
+      "en": "Tikhi Sev",
+      "grams": 500,
+      "weightLabel": "500 g",
+      "qty": 2,
+      "unitPrice": 140,
+      "amount": 280
+    },
+    {
+      "itemId": 22,
+      "gu": "રતલામી સેવ",
+      "en": "Ratlami Sev",
+      "grams": 500,
+      "weightLabel": "500 g",
+      "qty": 1,
+      "unitPrice": 140,
+      "amount": 140
+    }
+  ],
+  "subtotal": 2340,
+  "discount": 0,
+  "total": 2340,
+  "amountPaid": 2340,
+  "amountDue": 0,
+  "paymentStatus": "paid",
+  "paymentMode": "Cash",
+  "createdAt": "2026-11-11T16:44:24.904Z",
+  "appVersion": "2.3.0"
+}
