@@ -1,0 +1,30 @@
+{
+  "billNo": "20261111-006",
+  "date": "2026-11-11",
+  "time": "17:12",
+  "customer": {
+    "name": "",
+    "phone": ""
+  },
+  "items": [
+    {
+      "itemId": 2,
+      "gu": "મગદળ",
+      "en": "Magdal",
+      "grams": 500,
+      "weightLabel": "500 g",
+      "qty": 1,
+      "unitPrice": 220,
+      "amount": 220
+    }
+  ],
+  "subtotal": 220,
+  "discount": 0,
+  "total": 220,
+  "amountPaid": 220,
+  "amountDue": 0,
+  "paymentStatus": "paid",
+  "paymentMode": "Cash",
+  "createdAt": "2026-11-11T11:42:24.060Z",
+  "appVersion": "2.1.0"
+}
