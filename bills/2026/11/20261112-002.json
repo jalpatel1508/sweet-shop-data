@@ -1,0 +1,100 @@
+{
+  "billNo": "20261112-002",
+  "date": "2026-11-12",
+  "time": "11:33",
+  "customer": {
+    "name": "",
+    "phone": ""
+  },
+  "items": [
+    {
+      "itemId": 4,
+      "gu": "કેસર કાલાજામ",
+      "en": "Kesar Kalajam",
+      "grams": 500,
+      "weightLabel": "500 g",
+      "qty": 1,
+      "unitPrice": 260,
+      "amount": 260
+    },
+    {
+      "itemId": 1,
+      "gu": "પ્રિમિયમ મોહનથાળ",
+      "en": "Premium Mohanthal",
+      "grams": 500,
+      "weightLabel": "500 g",
+      "qty": 1,
+      "unitPrice": 220,
+      "amount": 220
+    },
+    {
+      "itemId": 16,
+      "gu": "મીક્ષ ચવાણું",
+      "en": "Mix Chavanu",
+      "grams": 500,
+      "weightLabel": "500 g",
+      "qty": 1,
+      "unitPrice": 140,
+      "amount": 140
+    },
+    {
+      "itemId": 18,
+      "gu": "ગાંઠીયા",
+      "en": "Gathiya",
+      "grams": 500,
+      "weightLabel": "500 g",
+      "qty": 1,
+      "unitPrice": 140,
+      "amount": 140
+    },
+    {
+      "itemId": 21,
+      "gu": "આલુ સેવ",
+      "en": "Aloo Sev",
+      "grams": 500,
+      "weightLabel": "500 g",
+      "qty": 1,
+      "unitPrice": 140,
+      "amount": 140
+    },
+    {
+      "itemId": 19,
+      "gu": "તીખી સેવ",
+      "en": "Tikhi Sev",
+      "grams": 500,
+      "weightLabel": "500 g",
+      "qty": 1,
+      "unitPrice": 140,
+      "amount": 140
+    },
+    {
+      "itemId": 20,
+      "gu": "ઝીણી સેવ",
+      "en": "Zini Sev",
+      "grams": 500,
+      "weightLabel": "500 g",
+      "qty": 1,
+      "unitPrice": 140,
+      "amount": 140
+    },
+    {
+      "itemId": 26,
+      "gu": "પ્રિમિયમ કાજુ કતરી",
+      "en": "Premium Kaju Katri",
+      "grams": 500,
+      "weightLabel": "500 g",
+      "qty": 2,
+      "unitPrice": 440,
+      "amount": 880
+    }
+  ],
+  "subtotal": 2060,
+  "discount": 0,
+  "total": 2060,
+  "amountPaid": 1060,
+  "amountDue": 1000,
+  "paymentStatus": "partial",
+  "paymentMode": "UPI",
+  "createdAt": "2026-11-12T06:03:55.991Z",
+  "appVersion": "2.3.0"
+}
