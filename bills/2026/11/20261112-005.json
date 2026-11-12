@@ -1,0 +1,90 @@
+{
+  "billNo": "20261112-005",
+  "date": "2026-11-12",
+  "time": "11:43",
+  "customer": {
+    "name": "Poojan",
+    "phone": ""
+  },
+  "items": [
+    {
+      "itemId": 26,
+      "gu": "પ્રિમિયમ કાજુ કતરી",
+      "en": "Premium Kaju Katri",
+      "grams": 500,
+      "weightLabel": "500 g",
+      "qty": 1,
+      "unitPrice": 440,
+      "amount": 440
+    },
+    {
+      "itemId": 27,
+      "gu": "કેસર કાજુ કતરી",
+      "en": "Kesar Kaju Katri",
+      "grams": 500,
+      "weightLabel": "500 g",
+      "qty": 1,
+      "unitPrice": 500,
+      "amount": 500
+    },
+    {
+      "itemId": 28,
+      "gu": "સ્ટ્રોબેરી કાજુ કતરી",
+      "en": "Strawberry Kaju Katri",
+      "grams": 500,
+      "weightLabel": "500 g",
+      "qty": 1,
+      "unitPrice": 500,
+      "amount": 500
+    },
+    {
+      "itemId": 29,
+      "gu": "ચોકલેટ કાજુ કતરી",
+      "en": "Chocolate Kaju Katri",
+      "grams": 500,
+      "weightLabel": "500 g",
+      "qty": 1,
+      "unitPrice": 500,
+      "amount": 500
+    },
+    {
+      "itemId": 30,
+      "gu": "કાજુ કસાટા",
+      "en": "Kaju Cassata",
+      "grams": 500,
+      "weightLabel": "500 g",
+      "qty": 1,
+      "unitPrice": 520,
+      "amount": 520
+    },
+    {
+      "itemId": 32,
+      "gu": "કેડબરી બોલ",
+      "en": "Cadbury Ball",
+      "grams": 500,
+      "weightLabel": "500 g",
+      "qty": 1,
+      "unitPrice": 520,
+      "amount": 520
+    },
+    {
+      "itemId": 33,
+      "gu": "કોકોનટ બોલ",
+      "en": "Coconut Ball",
+      "grams": 500,
+      "weightLabel": "500 g",
+      "qty": 1,
+      "unitPrice": 520,
+      "amount": 520
+    }
+  ],
+  "subtotal": 3500,
+  "discount": 0,
+  "total": 3500,
+  "amountPaid": 2500,
+  "amountDue": 1000,
+  "paymentStatus": "partial",
+  "paymentMode": "UPI",
+  "createdAt": "2026-11-12T06:13:44.785Z",
+  "appVersion": "2.3.0"
+}
