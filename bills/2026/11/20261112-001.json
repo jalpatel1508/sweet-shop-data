@@ -21,10 +21,17 @@
   "subtotal": 520,
   "discount": 0,
   "total": 520,
-  "amountPaid": 420,
-  "amountDue": 100,
+  "amountPaid": 470,
+  "amountDue": 50,
   "paymentStatus": "partial",
   "paymentMode": "Cash",
   "createdAt": "2026-11-12T07:46:12.782Z",
-  "appVersion": "2.3.0"
+  "appVersion": "2.3.0",
+  "payments": [
+    {
+      "date": "2026-11-12T07:47:01.515Z",
+      "amount": 50
+    }
+  ],
+  "updatedAt": "2026-11-12T07:47:01.515Z"
 }
