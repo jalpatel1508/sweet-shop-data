@@ -81,10 +81,17 @@
   "subtotal": 3520,
   "discount": 0,
   "total": 3520,
-  "amountPaid": 2000,
-  "amountDue": 1520,
+  "amountPaid": 2520,
+  "amountDue": 1000,
   "paymentStatus": "partial",
   "paymentMode": "UPI",
   "createdAt": "2026-11-12T06:06:13.969Z",
-  "appVersion": "2.3.0"
+  "appVersion": "2.3.0",
+  "payments": [
+    {
+      "date": "2026-11-12T06:07:13.098Z",
+      "amount": 520
+    }
+  ],
+  "updatedAt": "2026-11-12T06:07:13.098Z"
 }
