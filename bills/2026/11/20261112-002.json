@@ -1,0 +1,60 @@
+{
+  "billNo": "20261112-002",
+  "date": "2026-11-12",
+  "time": "09:52",
+  "customer": {
+    "name": "Poojan",
+    "phone": ""
+  },
+  "items": [
+    {
+      "itemId": 6,
+      "gu": "કેસર મોતીચુર લડ્ડુ",
+      "en": "Kesar Motichur Ladoo",
+      "grams": 500,
+      "weightLabel": "500 g",
+      "qty": 5,
+      "unitPrice": 260,
+      "amount": 1300
+    },
+    {
+      "itemId": 5,
+      "gu": "સોનપાપડી",
+      "en": "Sonpapdi",
+      "grams": 500,
+      "weightLabel": "500 g",
+      "qty": 1,
+      "unitPrice": 260,
+      "amount": 260
+    },
+    {
+      "itemId": 7,
+      "gu": "મીલ્ક કેક",
+      "en": "Milk Cake",
+      "grams": 500,
+      "weightLabel": "500 g",
+      "qty": 1,
+      "unitPrice": 260,
+      "amount": 260
+    },
+    {
+      "itemId": 8,
+      "gu": "અખરોટ બરફી",
+      "en": "Akhrot Barfi",
+      "grams": 500,
+      "weightLabel": "500 g",
+      "qty": 1,
+      "unitPrice": 260,
+      "amount": 260
+    }
+  ],
+  "subtotal": 2080,
+  "discount": 0,
+  "total": 2080,
+  "amountPaid": 1080,
+  "amountDue": 1000,
+  "paymentStatus": "partial",
+  "paymentMode": "Cash",
+  "createdAt": "2026-11-12T04:22:28.908Z",
+  "appVersion": "2.3.0"
+}
