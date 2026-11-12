@@ -51,9 +51,9 @@
   "subtotal": 2080,
   "discount": 0,
   "total": 2080,
-  "amountPaid": 1580,
-  "amountDue": 500,
-  "paymentStatus": "partial",
+  "amountPaid": 2080,
+  "amountDue": 0,
+  "paymentStatus": "paid",
   "paymentMode": "Cash",
   "createdAt": "2026-11-12T04:22:28.908Z",
   "appVersion": "2.3.0",
@@ -61,7 +61,11 @@
     {
       "date": "2026-11-12T04:23:58.449Z",
       "amount": 500
+    },
+    {
+      "date": "2026-11-12T04:31:45.429Z",
+      "amount": 500
     }
   ],
-  "updatedAt": "2026-11-12T04:23:58.449Z"
+  "updatedAt": "2026-11-12T04:31:45.429Z"
 }
