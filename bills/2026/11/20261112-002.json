@@ -1,0 +1,30 @@
+{
+  "billNo": "20261112-002",
+  "date": "2026-11-12",
+  "time": "15:15",
+  "customer": {
+    "name": "Hitesh",
+    "phone": ""
+  },
+  "items": [
+    {
+      "itemId": 26,
+      "gu": "પ્રિમિયમ કાજુ કતરી",
+      "en": "Premium Kaju Katri",
+      "grams": 500,
+      "weightLabel": "500 g",
+      "qty": 4,
+      "unitPrice": 440,
+      "amount": 1760
+    }
+  ],
+  "subtotal": 1760,
+  "discount": 0,
+  "total": 1760,
+  "amountPaid": 1760,
+  "amountDue": 0,
+  "paymentStatus": "paid",
+  "paymentMode": "Cash",
+  "createdAt": "2026-11-12T09:45:12.601Z",
+  "appVersion": "2.3.0"
+}
